@@ -57,3 +57,7 @@ Reading scores by grade:
 
 ##**Summary**
 After the school district analysis was updated by replacement of inaccurate scores for 9th grade students at Thomas High School with NaNs, four major changes can be identified. The first being the drastic increase (around 30% for each) in Thomas High Schools passing percentage for reading, math, and overall(passing of both). Second, this then affected analysis of scores by school type, with charter schools passing percentages increasing due to Thomas High School falling within this category. Third, scores by school size were additionally affected as Thomas High School falls within the medium scores size and its increasing in passing percentages increased the passing percentages within this range. And lastly the scores by school spending was affected as Thomas High School falls within the largest spending category, $646-675, increading the passing percentages within this range. Additionally the school ranking were affected as the refined school district data placed Thomas High School second overall out of all schools analyzed by overall poassing percentages. The cleaned data and refined results will allow for the most accurate results to be analyzed and thus the best conclusions to be made about future budget allotments and the best school conditions for high passing percentage results. 
+
+
+##**Contact:**
+- sarahhumphrey2016@outlook.com
