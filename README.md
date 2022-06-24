@@ -48,12 +48,10 @@ Reading scores by grade:
 
   - Scores by school type was similarly affected as described above. Since Thomas High School is a Charter school the percentage passing math, reading, and overall was raised by the removal of 9th grade Thomas High School students has this raised those scores for Thomas High School itself which lies within this category. Results for scores by school type are depicted below:
 
-
 ![scores_by_school_type](https://user-images.githubusercontent.com/100040705/162585014-0e9e6a11-7072-4566-8a63-5ca5fc4c1df5.png)
 
 ##**Summary**
 After the school district analysis was updated by replacement of inaccurate scores for 9th grade students at Thomas High School with NaNs, four major changes can be identified. The first being the drastic increase (around 30% for each) in Thomas High Schools passing percentage for reading, math, and overall(passing of both). Second, this then affected analysis of scores by school type, with charter schools passing percentages increasing due to Thomas High School falling within this category. Third, scores by school size were additionally affected as Thomas High School falls within the medium scores size and its increasing in passing percentages increased the passing percentages within this range. And lastly the scores by school spending was affected as Thomas High School falls within the largest spending category, $646-675, increading the passing percentages within this range. Additionally the school ranking were affected as the refined school district data placed Thomas High School second overall out of all schools analyzed by overall poassing percentages. The cleaned data and refined results will allow for the most accurate results to be analyzed and thus the best conclusions to be made about future budget allotments and the best school conditions for high passing percentage results. 
-
 
 ##**Contact:**
 - sarahhumphrey2016@outlook.com
