@@ -11,7 +11,6 @@ Standardized test data from 15 schools was collected for math and reading for an
 - District Summary
   -The 9th grade students were removed from total student count due to altered test scores, thus lowering the total number of students in the district summary as shown below. Since the passing math, reading, and overall is calculated based on the total number of students these amounts would increase since the total number of students decreased. Total schools and school budgets remained unaffected.
   
-  
 ![District_summary](https://user-images.githubusercontent.com/100040705/162583871-9dc5e2a3-a5ef-40be-8fea-922520d71bfe.png)
 
 - School Summary
@@ -48,7 +47,6 @@ Reading scores by grade:
 
 
 ![scores_by_school_size](https://user-images.githubusercontent.com/100040705/162585070-4fcff912-f491-4477-a51d-51acf013d13c.png)
-
 
   - Scores by school type was similarly affected as described above. Since Thomas High School is a Charter school the percentage passing math, reading, and overall was raised by the removal of 9th grade Thomas High School students has this raised those scores for Thomas High School itself which lies within this category. Results for scores by school type are depicted below:
 
