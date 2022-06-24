@@ -20,11 +20,9 @@ Standardized test data from 15 schools was collected for math and reading for an
     - % Overall Passing increased from 65.1% to 90.6%
 Results for final school summary data is shown below:
 
-
 ![School_summary](https://user-images.githubusercontent.com/100040705/162584139-14f6d635-51c7-4f8b-904f-263058fd6212.png)
 
 - Replacing 9th graders' math and reading scores increased Thomas High School's performance overall, and its performance relative to other schools. With percent passing above 90% in all catefories it outscores all district schools and is similar to passing percentages of other charter schools analyzed. With the replaced scores Thomas High School ranks second in scores overall, as shown below.
-
 
 ![top_schools](https://user-images.githubusercontent.com/100040705/162584284-3dcfddcf-007e-460b-ace8-a689a0f9734d.png)
 
