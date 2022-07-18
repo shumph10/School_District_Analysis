@@ -1,12 +1,20 @@
 # School_District_Analysis
-Analysis of school math and reading testing was done to clean data and analyze overall scores by school, school type, and budget per student.
+Analysis of school math and reading testing to clean data and analyze overall scores by school, school type, and budget per student.
+
+------------------------------------
 
 ##**Resources**
-Data Sources: students_complete.csv, schools_complete.csv
+Data Sources: [students_complete.csv](https://github.com/shumph10/School_District_Analysis/blob/main/Resources/students_complete.csv) , [schools_complete.csv](https://github.com/shumph10/School_District_Analysis/blob/main/Resources/schools_complete.csv)
+
 Software: Python 3.9.7, Jupyter Notebook 6.4.0
+
+------------------------------------
 
 ##**Overview**
 Standardized test data from 15 schools was collected for math and reading for analysis of performace trends. Trends identified would be used for discussion of factors influencing test schools such as school budget and budget per student alloted and factored into future budget allotments. The data was cleaned for improper names and falsified test scores which were found in the data for Thomas High Schools 9th grade students. This data was removed to prevent skewing of overall results of analysis. DataFrames within Pandas were then created to show relation between passing percentages and grade, school type, overall budget, and budget per student. Bins were created to depict which range of budget per student performed best. Data was analyzed in accordance wit FERPA to protect students identities and scoring results.  
+
+------------------------------------
+
 ##**Results**
 - District Summary
   -The 9th grade students were removed from total student count due to altered test scores, thus lowering the total number of students in the district summary as shown below. Since the passing math, reading, and overall is calculated based on the total number of students these amounts would increase since the total number of students decreased. Total schools and school budgets remained unaffected.
@@ -50,8 +58,14 @@ Reading scores by grade:
 
 ![scores_by_school_type](https://user-images.githubusercontent.com/100040705/162585014-0e9e6a11-7072-4566-8a63-5ca5fc4c1df5.png)
 
+------------------------------------
+
 ##**Summary**
 After the school district analysis was updated by replacement of inaccurate scores for 9th grade students at Thomas High School with NaNs, four major changes can be identified. The first being the drastic increase (around 30% for each) in Thomas High Schools passing percentage for reading, math, and overall(passing of both). Second, this then affected analysis of scores by school type, with charter schools passing percentages increasing due to Thomas High School falling within this category. Third, scores by school size were additionally affected as Thomas High School falls within the medium scores size and its increasing in passing percentages increased the passing percentages within this range. And lastly the scores by school spending was affected as Thomas High School falls within the largest spending category, $646-675, increading the passing percentages within this range. Additionally the school ranking were affected as the refined school district data placed Thomas High School second overall out of all schools analyzed by overall poassing percentages. The cleaned data and refined results will allow for the most accurate results to be analyzed and thus the best conclusions to be made about future budget allotments and the best school conditions for high passing percentage results. 
 
-##**Contact:**
-- sarahhumphrey2016@outlook.com
+------------------------------------
+
+##**Contact Me**
+
+Email: sarahhumphrey2016@outlook.com </br>
+[LinkedIn](https://www.linkedin.com/in/sarah-humphrey-data-analyst/)
